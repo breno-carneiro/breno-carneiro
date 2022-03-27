@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @breno-carneiro
+- 👀 I’m interested in finance and programing
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
+- 📫 How to reach me breno.carneiro@gmail.com
